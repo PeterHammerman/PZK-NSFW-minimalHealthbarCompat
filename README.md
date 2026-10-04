@@ -2,7 +2,7 @@ Compatibility mod between Minimal Health Bar system for Zomborut, ZomboLust and 
 
 Its adding 4 tabs:
 - Arousal
-- Escitation
+- Excitation
 - Lactation
 - Pregnancy progress
 
