@@ -13,6 +13,8 @@ Links to mods:
 Minimal Health Bar system 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3775659041
 
+Zombodesire https://www.loverslab.com/files/file/44539-project-zomboid-zombodesire-framework/
+
 Zomborut
 https://www.loverslab.com/topic/265927-project-zomboid-zomborut-%E2%80%94-b42-nsfw-framework/
 
